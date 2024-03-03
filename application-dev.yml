@@ -9,3 +9,6 @@ eureka:
 spring:
   application:
     name: STOCK-SERVICE-dev
+server:
+  port:8081
+
