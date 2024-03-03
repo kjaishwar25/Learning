@@ -10,5 +10,5 @@ spring:
   application:
     name: STOCK-SERVICE-dev
 server:
-  port:80810q
+  port:8081
 
