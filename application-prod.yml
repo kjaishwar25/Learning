@@ -10,4 +10,4 @@ spring:
   application:
     name: STOCK-SERVICE-prod
 
-#this is prod changes
+#this is production changes
