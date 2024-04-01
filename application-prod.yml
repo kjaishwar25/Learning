@@ -8,6 +8,6 @@ eureka:
       defaultZone: http://localhost:8761/eureka
 spring:
   application:
-    name: STOCK-SERVICE-production-application
+    name: STOCK-SERVICE-production-application-addition
 
 #this is production changes
